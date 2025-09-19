@@ -40,7 +40,7 @@
 - Quản lý thu chi, phân loại chi tiêu  
 - Tạo & theo dõi ngân sách  
 - Dashboard trực quan, dễ quan sát  
-🔗 [GitHub Repo]([https://github.com/hanpt04/Child-Vaccine-ScheduleTracking-System](https://github.com/hanpt04/Child-Vaccine-Schedule-Tracking-System)) *(⚠️ check lại link, hình như copy nhầm)*  
+🔗 [GitHub Repo]([https://github.com/hanpt04/Child-Vaccine-ScheduleTracking-System](https://github.com/hanpt04/Child-Vaccine-Schedule-Tracking-System))
 
 ---
 
