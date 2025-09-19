@@ -29,7 +29,7 @@
 - Dashboard & Report trực quan  
 - Tự động gửi mail nhắc nhở & thông báo  
 - Quản lý vaccine trong kho, người dùng, lịch đặt  
-🔗 [GitHub Repo]([https://github.com/hanpt04/Child-Vaccine-ScheduleTracking-System](https://github.com/hanpt04/Child-Vaccine-Schedule-Tracking-System))  
+🔗 [GitHub Repo]((https://github.com/hanpt04/Child-Vaccine-Schedule-Tracking-System))  
 
 ---
 
