@@ -1,6 +1,6 @@
 # Hi, I'm Hà 👋  
 
-🎓 3rd year Software Engineering student  
+🎓 3rd year Software Engineering student at FPT University
 🌱 Currently focusing on **Java**, **.NET (ASP.NET)**, **Spring Boot**, **Spring Security**, and **Databases (SQL Server, PostgreSQL)**  
 🚀 Interested in **System Design**, **Scalable Applications**, and **AI**  
 
