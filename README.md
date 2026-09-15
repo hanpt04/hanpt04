@@ -27,7 +27,7 @@ I am seeking opportunities to contribute to Java backend projects, learn from ex
 **.NET Developer Intern — FPT Software Academy**  
 May 2025 – August 2025
 
-Worked on backend development with ASP.NET Core and PostgreSQL. Led a team of 5, designed database schemas and module workflows, and coordinated implementation under mentor supervision.
+Worked on backend development with ASP.NET Core and PostgreSQL. Lead a team of 5, designed database schemas and module workflows, and coordinated implementation under mentor supervision.
 
 ## Education
 
